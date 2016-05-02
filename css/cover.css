@@ -116,7 +116,12 @@ body {
     padding: 10px 20px;
     font-weight: bold;
 }
-
+.cover a{
+    color: whitesmoke;
+}
+.cover a:hover{
+    color: white;
+}
 
 /*
  * Footer
